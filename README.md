@@ -1,8 +1,3 @@
-[![GitHub - Sascha-Pionczewski/Marvel-Movie-App](https://tse2.mm.bing.net/th/id/OIP.hp4D_9vZktneDnBPY9LBQgHaEc?pid=Api)](https://github.com/Sascha-Pionczewski/Marvel-Movie-App)
-
-Certainly! Here's an in-depth `README.md` for the [Epetaway/marvel-movie-app](https://github.com/Epetaway/marvel-movie-app) project, designed to provide clarity and guidance for users and contributors:
-
----
 
 # Marvel Movie App
 
